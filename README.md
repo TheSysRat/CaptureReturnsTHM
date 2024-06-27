@@ -1,5 +1,9 @@
 # CaptureReturnsTHM
 
+## About
+
+PWNed script to solve chalange on TryHackMe - https://tryhackme.com/r/room/capturereturns
+
 ## Instalation >>>
  
 ### Install tesseract >>> 
