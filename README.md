@@ -1,11 +1,19 @@
 # CaptureReturnsTHM
 
-<H3>Install tesseract >>> </H3><br>
-<b></b>sudo apt install tesseract <br><br></b>
+## Instalation >>>
+ 
+### Install tesseract >>> 
 
-<H3>Pip install >></H3><br>
-<b></b>pip install requests json pillow pytesseract bytesbufio<br><br></b>
+```
+sudo apt install tesseract
+```
 
-<H3>Run >></H3><br>
+### Pip install >>
+```
+pip install requests json pillow pytesseract bytesbufio
+```
 
-<b>python3 capture.py<br><br></b>
+### Run >>
+```
+python3 capture.py
+```
